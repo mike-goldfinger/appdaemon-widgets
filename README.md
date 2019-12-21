@@ -10,6 +10,10 @@ I'm going to provide an image of the widget, when my ha raspy is working again
 
 I like to improve to get the current listening radio station preselected on the drop-down menu. But first it will take me weeks to set up my HADashboard to control my home.
 
+##Usage
+Place the files in the directory /conf/custom_widgets 
+Example .dash configuarion:
+
 ```yaml
 myradio:
     widget_type: radio
