@@ -1,7 +1,7 @@
 # appdaemon-widgets
 Appdaemon Widgets for Home Assistant 
 
-This is an AppDaeomon [HADashboard](https://www.home-assistant.io/docs/ecosystem/hadashboard/) widget radio allows to stream online radio channels to media_player on [Home Assistant](https://www.home-assistant.io). 
+This AppDaeomon [HADashboard](https://www.home-assistant.io/docs/ecosystem/hadashboard/) widget allows to stream online radio channels to media_player on [Home Assistant](https://www.home-assistant.io). 
 It provides a volume slider and it shows the current state, volume and radio station.
 
 ---
